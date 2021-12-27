@@ -1,0 +1,16 @@
+
+
+#sobreposto{
+    width: 80%; 
+    margin: 100px auto; 
+    border-radius: 15px; 
+    padding: 25px
+}
+
+button{
+    width: 80px;
+    margin: auto;
+    display: flex;
+    margin-top: 60px;
+    justify-content: center;
+}

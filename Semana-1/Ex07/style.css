@@ -1,0 +1,46 @@
+.loja {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0;    
+}
+.nav {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px black;
+}
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 25px;
+    padding-top: 25px;  
+    margin-top: 0; 
+    list-style-type: none;     
+}
+.publicidade {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 1px black;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.titulo{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.conteudo{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto; 
+    text-align: justify; 
+}

@@ -1,0 +1,19 @@
+.container{
+    display: flex; 
+    margin: auto;
+    justify-content: center;
+    padding: 40px;
+    align-content: space-between;
+}
+
+fieldset{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    margin: 40px;
+}
+
+.link {
+    text-align: center;
+    cursor: pointer;   
+}

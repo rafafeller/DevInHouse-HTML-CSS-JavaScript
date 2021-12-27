@@ -1,0 +1,1 @@
+Centralize o menu do exercício 2 na vertical.
